@@ -1,12 +1,3 @@
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=Shitric&color=blueviolet&style=for-the-badge)](https://github.com/Shitric)
-[![GitHub followers](https://img.shields.io/github/followers/Shitric?style=for-the-badge&logo=github)](https://github.com/Shitric?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/Shitric?style=for-the-badge)](https://github.com/Shitric)
-[![Repos Badge](https://badges.pufler.dev/repos/Shitric?style=for-the-badge)](https://github.com/Shitric?tab=repositories)
-
-</div>
-
 # 👋 Hi there, I'm Furkan
 
 <div align="center">
@@ -38,6 +29,15 @@
 
 [![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shitric&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=Shitric&color=blueviolet&style=for-the-badge)](https://github.com/Shitric)
+[![GitHub followers](https://img.shields.io/github/followers/Shitric?style=for-the-badge&logo=github)](https://github.com/Shitric?tab=followers)
+[![Years Badge](https://badges.pufler.dev/years/Shitric?style=for-the-badge)](https://github.com/Shitric)
+[![Repos Badge](https://badges.pufler.dev/repos/Shitric?style=for-the-badge)](https://github.com/Shitric?tab=repositories)
+
+</div>
+
 </div>
 
 ---
@@ -45,4 +45,4 @@
 ### 📫 Contact Me
 
 - 📧 Email: furkan.byzyldz@gmail.com
-- 🌐 Website: [furkan.kim](https://furkan.kim) 
+- 🌐 Website: [furkan.kim](https://furkan.kim)
