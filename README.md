@@ -1,9 +1,3 @@
-# 👋 Hi there, I'm Furkan
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="400" style="border-radius: 10px; margin-bottom: 10px;" />
-</div>
-
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=Shitric&color=blueviolet&style=for-the-badge)](https://github.com/Shitric)
@@ -11,6 +5,12 @@
 [![Years Badge](https://badges.pufler.dev/years/Shitric?style=for-the-badge)](https://github.com/Shitric)
 [![Repos Badge](https://badges.pufler.dev/repos/Shitric?style=for-the-badge)](https://github.com/Shitric?tab=repositories)
 
+</div>
+
+# 👋 Hi there, I'm Furkan
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="400"/>
 </div>
 
 ### 🛠️ Technologies
