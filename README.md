@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Furkan
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="400"/>
+  <img src="https://media.tenor.com/EbyOKpncujQAAAAi/john-travolta-tra-jt-transparent.gif" width="300"/>
 </div>
 
 ### 🛠️ Technologies
@@ -33,7 +33,7 @@
   
 [![Profile Views](https://komarev.com/ghpvc/?username=Shitric&color=blueviolet&style=for-the-badge)](https://github.com/Shitric)
 [![GitHub followers](https://img.shields.io/github/followers/Shitric?style=for-the-badge&logo=github)](https://github.com/Shitric?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/Shitric?style=for-the-badge)](https://github.com/Shitric)
+[![Years Badge](https://badges.pufler.dev/years/Shitric?style=for-the-badge&)](https://github.com/Shitric)
 [![Repos Badge](https://badges.pufler.dev/repos/Shitric?style=for-the-badge)](https://github.com/Shitric?tab=repositories)
 
 </div>
