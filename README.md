@@ -27,13 +27,18 @@
 <img src="https://media.tenor.com/EbyOKpncujQAAAAi/john-travolta-tra-jt-transparent.gif" width="100%">
 </td>
 <td width="60%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Shitric&show_icons=true&theme=vision-friendly-dark" width="100%" alt="Furkan's GitHub stats" />
+
+<br>
+
+<div align="center">
 
 ![](https://img.shields.io/badge/👁️_Profile_Views-1K-2F80ED?style=for-the-badge)
 ![](https://img.shields.io/badge/🤝_Followers-100-30336b?style=for-the-badge)
 ![](https://img.shields.io/badge/⌛_Years-2-0D1117?style=for-the-badge)
 ![](https://img.shields.io/badge/📦_Repos-25-238636?style=for-the-badge)
+
+</div>
 
 </td>
 </tr>
