@@ -21,16 +21,16 @@
 
 <h3 align="left">📊 My Stats</h3>
 
-<table border="0">
+<table cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="40%">
+<td width="40%" align="center">
 <img src="https://media.tenor.com/EbyOKpncujQAAAAi/john-travolta-tra-jt-transparent.gif" width="100%">
 </td>
-<td width="60%">
+<td width="60%" align="center">
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shitric&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Furkan's GitHub Stats" />
 
-<br><br>
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/👁️_Profile_Views-1K-2F80ED?style=for-the-badge&labelColor=black" />
