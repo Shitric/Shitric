@@ -21,7 +21,7 @@
 
 ### 📊 My Stats
 
-<table>
+<table border="0">
 <tr>
 <td width="40%">
 <img src="https://media.tenor.com/EbyOKpncujQAAAAi/john-travolta-tra-jt-transparent.gif" width="100%">
