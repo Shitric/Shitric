@@ -29,14 +29,10 @@
 
 [![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shitric&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=Shitric&color=blueviolet&style=for-the-badge)](https://github.com/Shitric)
-[![GitHub followers](https://img.shields.io/github/followers/Shitric?style=for-the-badge&logo=github)](https://github.com/Shitric?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/Shitric?style=for-the-badge&)](https://github.com/Shitric)
-[![Repos Badge](https://badges.pufler.dev/repos/Shitric?style=for-the-badge)](https://github.com/Shitric?tab=repositories)
-
-</div>
+![](https://img.shields.io/badge/👁️_Profile_Views-1K-2F80ED?style=for-the-badge)
+![](https://img.shields.io/badge/🤝_Followers-100-30336b?style=for-the-badge)
+![](https://img.shields.io/badge/⌛_Years-2-0D1117?style=for-the-badge)
+![](https://img.shields.io/badge/📦_Repos-25-238636?style=for-the-badge)
 
 </div>
 
