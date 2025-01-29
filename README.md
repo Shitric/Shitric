@@ -10,7 +10,7 @@
 
 ### 🛠️ Technologies I've Used
 
-<div align="left">
+<div align="center">
 <br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>&nbsp;
