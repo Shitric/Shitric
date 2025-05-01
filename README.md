@@ -1,13 +1,5 @@
 # 👋 Hi there, I'm Furkan
 
-<div align="left">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShitric&count_bg=dodgerblue&title_bg=black&icon&icon_color=white&title=Profile+Views&edge_flat=false" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=dodgerblue&label=Followers&query=followers&url=https://api.github.com/users/Shitric" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=dodgerblue&label=Repositories&query=public_repos&url=https://api.github.com/users/Shitric" />
-</div>
-
----
-
 ### 🛠️ Technologies I've Used
 
 <div align="center">
