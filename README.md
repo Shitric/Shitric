@@ -16,11 +16,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </div>
 
 ---
