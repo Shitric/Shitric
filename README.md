@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>&nbsp;
 </div>
 
